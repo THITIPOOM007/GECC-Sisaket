@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GECC Sisaket//Mentor Meeting 2570//TH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:gecc-sisaket-mentor-20261029@gecc-sisaket-learning
+DTSTAMP:20261026T000000Z
+DTSTART:20261029T013000Z
+DTEND:20261029T050000Z
+SUMMARY:ประชุมทีมพี่เลี้ยง GECC ศร
+ ีสะเกษ ครั้งที่ 1
+LOCATION:ห้องประชุมอาคารส่งเสร
+ ิมสุขภาพ สำนักงานสาธารณสุ
+ ขจังหวัดศรีสะเกษ
+DESCRIPTION:ตามหัวกำหนดการ 08.30–12.00 น. 
+ ตารางระบุลงทะเบียน 08.00–09.00 น.
+  กำหนดการอาจปรับเปลี่ยนตา
+ มความเหมาะสม
+END:VEVENT
+END:VCALENDAR

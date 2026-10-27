@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-26",
+  "unique_ids": 38,
+  "local_resources": [
+    {
+      "file": "app.js",
+      "status": 200,
+      "bytes": 29073
+    },
+    {
+      "file": "assets/agency-groups.webp",
+      "status": 200,
+      "bytes": 307680
+    },
+    {
+      "file": "assets/criteria-2570.docx",
+      "status": 200,
+      "bytes": 550147
+    },
+    {
+      "file": "assets/criteria-2570.pdf",
+      "status": 200,
+      "bytes": 434468
+    },
+    {
+      "file": "assets/criteria-briefing-2570.pdf",
+      "status": 200,
+      "bytes": 23043343
+    },
+    {
+      "file": "assets/favicon.svg",
+      "status": 200,
+      "bytes": 290
+    },
+    {
+      "file": "assets/gecc-emblem.webp",
+      "status": 200,
+      "bytes": 21260
+    },
+    {
+      "file": "assets/gecc-working-group.pdf",
+      "status": 200,
+      "bytes": 111339
+    },
+    {
+      "file": "assets/handbook-2570.pdf",
+      "status": 200,
+      "bytes": 6667113
+    },
+    {
+      "file": "assets/mentor-meeting-1.pdf",
+      "status": 200,
+      "bytes": 101513
+    },
+    {
+      "file": "assets/mentor-meeting.ics",
+      "status": 200,
+      "bytes": 880
+    },
+    {
+      "file": "assets/mentor-teams.webp",
+      "status": 200,
+      "bytes": 391842
+    },
+    {
+      "file": "assets/readiness-2570.pdf",
+      "status": 200,
+      "bytes": 153889
+    },
+    {
+      "file": "assets/sisaket-emblem.webp",
+      "status": 200,
+      "bytes": 10372
+    },
+    {
+      "file": "assets/timeline-updated.pdf",
+      "status": 200,
+      "bytes": 20173463
+    },
+    {
+      "file": "premium.css",
+      "status": 200,
+      "bytes": 22992
+    },
+    {
+      "file": "styles.css",
+      "status": 200,
+      "bytes": 36431
+    },
+    {
+      "file": "updates.js",
+      "status": 200,
+      "bytes": 13667
+    }
+  ],
+  "core_html_css_js_bytes": 134272,
+  "all_local_resources_200": true
+}
